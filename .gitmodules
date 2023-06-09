@@ -1,0 +1,6 @@
+[submodule "deps"]
+	path = deps
+	url = https://github.com/GPotoshin/slog
+[submodule "slog"]
+	path = slog
+	url = https://github.com/GPotoshin/slog
